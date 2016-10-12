@@ -216,8 +216,8 @@
             $('.mbr-embedded-video').each(function(){
                 $(this).height(
                     $(this).width() *
-                    parseInt($(this).attr('height') || 315) /
-                    parseInt($(this).attr('width') || 560)
+                    parseInt($(this).attr('height') || 480) /
+                    parseInt($(this).attr('width') || 640)
                 );
             });
         });

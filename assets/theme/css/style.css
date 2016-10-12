@@ -16,7 +16,7 @@
         margin-left: 0; } }
 
 .bg-primary {
-  background-color: #c0a375 !important; }
+  background-color: #b81532 !important; }
 
 .bg-success {
   background-color: #90a878 !important; }
@@ -68,29 +68,29 @@
   border-radius: 3px; }
 
 .btn-primary {
-  background-color: #c0a375;
-  border-color: #c0a375;
+  background-color: #b81532;
+  border-color: #b81532;
   box-shadow: none;
   color: #fff; }
   .btn-primary:hover {
     color: #fff;
-    background-color: #a07e49;
-    border-color: #a07e49;
+    background-color: #21295c;
+    border-color: #21295c;
     box-shadow: none; }
   .btn-primary:focus, .btn-primary.focus {
     color: #fff;
-    background-color: #a07e49;
-    border-color: #a07e49; }
+    background-color: #21295c;
+    border-color: #21295c; }
   .btn-primary:active, .btn-primary.active {
     color: #fff;
-    background-color: #a07e49;
-    border-color: #a07e49;
+    background-color: #21295c;
+    border-color: #21295c;
     background-image: none;
     box-shadow: none; }
   .btn-primary.disabled, .btn-primary:disabled {
     color: #fff !important;
-    background-color: #a07e49 !important;
-    border-color: #a07e49 !important;
+    background-color: #21295c !important;
+    border-color: #21295c !important;
     opacity: 0.85; }
 
 .btn-secondary {
@@ -281,16 +281,16 @@
   color: #8e7041; }
   .btn-primary-outline:focus, .btn-primary-outline.focus, .btn-primary-outline:active, .btn-primary-outline.active {
     color: #fff;
-    background-color: #c0a375;
-    border-color: #c0a375; }
+    background-color: #b81532;
+    border-color: #b81532; }
   .btn-primary-outline:hover {
     color: #fff;
-    background-color: #c0a375;
-    border-color: #c0a375; }
+    background-color: #b81532;
+    border-color: #b81532; }
   .btn-primary-outline.disabled, .btn-primary-outline:disabled {
     color: #fff !important;
-    background-color: #c0a375 !important;
-    border-color: #c0a375 !important;
+    background-color: #b81532 !important;
+    border-color: #b81532 !important;
     opacity: 0.85; }
 
 .btn-secondary-outline {
@@ -431,7 +431,7 @@ a.mbr-iconfont:hover {
   line-height: 44px;
   text-align: center;
   position: relative;
-  border: 2px solid #c0a375;
+  border: 2px solid #b81532;
   color: #232323; }
   .btn-social i {
     top: 0;
@@ -439,7 +439,7 @@ a.mbr-iconfont:hover {
     width: 44px; }
   .btn-social:hover {
     color: #fff;
-    background: #c0a375; }
+    background: #b81532; }
   .btn-social + .btn {
     margin-left: 0.1rem; }
 
@@ -460,7 +460,7 @@ p.lead,
     font-style: italic;
     font-weight: 400; }
     .lead a, .lead a:hover {
-      color: #c0a375;
+      color: #b81532;
       text-decoration: none; }
   .lead h1 {
     font-size: 3rem;
@@ -606,7 +606,7 @@ input:-webkit-autofill, input:-webkit-autofill:hover, input:-webkit-autofill:foc
   transition-property: background-color, color; }
 
 .text-primary {
-  color: #c0a375 !important; }
+  color: #b81532 !important; }
 
 .text-success {
   color: #90a878 !important; }
@@ -1571,7 +1571,7 @@ input:-webkit-autofill, input:-webkit-autofill:hover, input:-webkit-autofill:foc
     margin-bottom: 0; }
 
 .mbr-small-footer a {
-  color: #c0a375; }
+  color: #b81532; }
   .mbr-small-footer a:hover {
     text-decoration: none; }
 
@@ -1611,7 +1611,7 @@ input:-webkit-autofill, input:-webkit-autofill:hover, input:-webkit-autofill:foc
       clear: none !important;
       padding-bottom: 0 !important; } }
   .mbr-footer p a, .mbr-footer ul a {
-    color: #c0a375; }
+    color: #b81532; }
     .mbr-footer p a:hover, .mbr-footer ul a:hover {
       text-decoration: none; }
   .mbr-footer .btn-black {
@@ -1669,7 +1669,7 @@ input:-webkit-autofill, input:-webkit-autofill:hover, input:-webkit-autofill:foc
   .mbr-footer-content li:last-child, .mbr-footer .mbr-contacts li:last-child {
     border-bottom: 0; }
   .mbr-footer-content li::before, .mbr-footer .mbr-contacts li::before {
-    background: #c0a375;
+    background: #b81532;
     content: "";
     height: 0.36em;
     left: 0;
@@ -1683,7 +1683,7 @@ input:-webkit-autofill, input:-webkit-autofill:hover, input:-webkit-autofill:foc
     -moz-transition: color .3s ease;
     transition: color .3s ease; }
     .mbr-footer-content li a:hover, .mbr-footer .mbr-contacts li a:hover {
-      color: #c0a375; }
+      color: #b81532; }
 
 .footer1 ul {
   margin-top: -13px; }
@@ -1758,7 +1758,7 @@ input:-webkit-autofill, input:-webkit-autofill:hover, input:-webkit-autofill:foc
   .mbr-company .list-group-item.active, .mbr-company .list-group-item.active:hover {
     background: none; }
   .mbr-company .list-group-item.active .list-group-text {
-    color: #c0a375; }
+    color: #b81532; }
   .mbr-company .list-group-item:last-child {
     padding-bottom: 0; }
     .mbr-company .list-group-item:last-child .list-group-text::after {
